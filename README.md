@@ -81,7 +81,7 @@
  - extensibility - 새로운 위험 요소의 소리를 구분하기 위한 기능 추가 작업이 필요하다.
 
 # Component diagram (김효민)
-![image](https://user-images.githubusercontent.com/48286887/100620975-676de900-3362-11eb-8632-8b877f913986.png)
+![image](https://user-images.githubusercontent.com/48286887/103122509-e0433500-46c3-11eb-87b0-4f5002cb023d.png)
 
 # Deployment diagram (박지환)
 ![image](https://user-images.githubusercontent.com/48286887/100625346-be29f180-3367-11eb-9b94-99ddc6035cea.png)
