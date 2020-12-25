@@ -72,7 +72,7 @@
 # Class Diagram ( 김유림 )
 ![image](https://user-images.githubusercontent.com/48286887/100543098-805a9980-3291-11eb-9414-aa295bb3b52d.png)
 
-# Object diagram ( 김효민 )
+# Object diagram ( 김효민, 김유림)
 ![image](https://user-images.githubusercontent.com/48286887/103122460-b722a480-46c3-11eb-92cb-9cba6e61946b.png)
 
 # design goal (정순인)
@@ -80,8 +80,8 @@
  - response time - 위험 요소가 발생한 후 1 초 이내에 Guardian Android 앱에 알림을 보낸다.
  - extensibility - 새로운 위험 요소의 소리를 구분하기 위한 기능 추가 작업이 필요하다.
 
-# Component diagram (김효민)
+# Component diagram (박지환)
 ![image](https://user-images.githubusercontent.com/48286887/103122509-e0433500-46c3-11eb-87b0-4f5002cb023d.png)
 
-# Deployment diagram (박지환)
-![image](https://user-images.githubusercontent.com/48286887/100625346-be29f180-3367-11eb-9b94-99ddc6035cea.png)
+# Deployment diagram (김효민, 정순인)
+![image](https://user-images.githubusercontent.com/48286887/103122528-fa7d1300-46c3-11eb-864b-f9a253c62cc0.png)
