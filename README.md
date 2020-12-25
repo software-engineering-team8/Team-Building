@@ -70,7 +70,7 @@
 
 
 # Class Diagram ( 김유림 )
-![image](https://user-images.githubusercontent.com/48286887/100543098-805a9980-3291-11eb-9414-aa295bb3b52d.png)
+![image](https://user-images.githubusercontent.com/48286887/103123008-feaa3000-46c5-11eb-9003-874c3f8e21b6.png)
 
 # Object diagram ( 김효민, 김유림)
 ![image](https://user-images.githubusercontent.com/48286887/103122460-b722a480-46c3-11eb-92cb-9cba6e61946b.png)
